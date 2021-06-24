@@ -1,2 +1,2 @@
 # ssb_full.project-1
-here is the full project of quick
+https://moddasserhossain787.github.io/ssb_full.project-1/
